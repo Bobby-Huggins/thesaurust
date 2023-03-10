@@ -1,4 +1,4 @@
-A command-line interface to [Merriam-Webster's thesaurus API](https://dictionaryapi.com/products/api-collegiate-thesaurus), written in Rust. Available on [crates.io](https://crates.io/).
+A command-line interface to [Merriam-Webster's thesaurus API](https://dictionaryapi.com/products/api-collegiate-thesaurus), written in Rust. Available on [crates.io]([https://crates.io/](https://crates.io/crates/thesaurust)).
 
 Inspired by [davidgu/Thesaurus-cli](https://github.com/davidgu/thesaurus-cli).
 
